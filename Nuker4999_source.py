@@ -1,7 +1,7 @@
 # ============================================================
 # Nuker#4999 v2 - Reconstructed Source Code
-# Original Author: HTLr#4999 (GRoupHTLr)
-# Discord: discord.gg/9k
+# @Orbital 
+# Discord: discord.gg/ICMP
 # Reconstructed via: Binary analysis of Nuitka-compiled EXE
 # ============================================================
 
